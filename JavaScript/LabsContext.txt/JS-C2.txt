@@ -1,0 +1,3 @@
+Build and Email masker
+For example, if the email address is myEmailr@email.com, 
+then the masked email address will be m********r@email.com.
