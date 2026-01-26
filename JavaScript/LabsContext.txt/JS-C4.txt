@@ -1,0 +1,2 @@
+Build a Celsius to Fahrenheit Converter
+In this lab, you will write a function that converts the temperature from Celsious to Fahrenheit.
