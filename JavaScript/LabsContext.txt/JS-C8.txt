@@ -1,0 +1,2 @@
+This is a simple quiz game where the computer randomly selects a question and makes a random choice among the possible answers.
+The result indicates whether the computer's choice was correct or not.
